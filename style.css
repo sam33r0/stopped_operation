@@ -50,3 +50,9 @@ body {
 .contact-info a:hover {
   text-decoration: underline;
 }
+
+.logo {
+  max-width: 160px;
+  margin-bottom: 1.5rem;
+}
+
